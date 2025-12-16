@@ -22,7 +22,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg">
                 <a class="navbar-brand" href="/">
-                    <img src="tpl/img/logo.webp" alt="A+ Gastronomia" class="img-fluid">
+                    <img src="tpl/img/logo.webp" alt="Logo da A+ Gastronomia e Eventos - Catering corporativo de excelência" class="img-fluid">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">

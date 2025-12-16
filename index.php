@@ -13,7 +13,7 @@
                         <div class="banner-image-container">
                             <img src="./tpl/img/banner.jpg"
                                 class="img-fluid w-100"
-                                alt="Evento Corporativo"
+                                alt="Banner promocional mostrando um evento corporativo elegante com catering de alta qualidade da A+ Gastronomia"
                                 loading="lazy">
                             <div class="banner-overlay"></div>
                         </div>
@@ -39,7 +39,7 @@
                         <div class="banner-image-container">
                             <img src="./tpl/img/banner-2.jpg"
                                 class="img-fluid w-100"
-                                alt="Coffee Break"
+                                alt="Banner promocional exibindo um coffee break sofisticado com variedade de bebidas e petiscos gourmet"
                                 loading="lazy">
                             <div class="banner-overlay"></div>
                         </div>
@@ -72,7 +72,7 @@
                         <div class="about-image-container position-relative">
                             <img src="./tpl/img/imagem-sobre-nos.jpg"
                                 class="img-fluid rounded-3 shadow-lg"
-                                alt="Equipe A+"
+                                alt="Equipe profissional da A+ Gastronomia e Eventos trabalhando em ambiente de cozinha industrial"
                                 loading="lazy">
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                             <div class="service-card-image">
                                 <img src="./tpl/img/coffee-break.jpg"
                                     class="card-img-top"
-                                    alt="Coffee Break"
+                                    alt="Serviço de coffee break premium com mesa decorada contendo cafés especiais, chás, sucos naturais, salgados e doces finos"
                                     loading="lazy">
                             </div>
                             <div class="card-body">
@@ -167,7 +167,7 @@
                             <div class="service-card-image">
                                 <img src="./tpl/img/almoco-corporativo.jpg"
                                     class="card-img-top"
-                                    alt="Almoço Corporativo"
+                                    alt="Buffet completo de almoço corporativo com cardápio variado, pratos quentes, saladas e opções para dietas especiais"
                                     loading="lazy">
                             </div>
                             <div class="card-body">
@@ -193,7 +193,7 @@
                             <div class="service-card-image">
                                 <img src="./tpl/img/finger-food.jpg"
                                     class="card-img-top"
-                                    alt="Coquetel"
+                                    alt="Serviço de coquetel e finger food sofisticado com canapés criativos, petiscos gourmet e apresentação elegante para eventos de networking"
                                     loading="lazy">
                             </div>
                             <div class="card-body">
@@ -296,7 +296,7 @@
                         <a href="./tpl/img/evento-1.webp" class="gallery-link" data-fslightbox="gallery">
                             <img src="./tpl/img/evento-1.webp"
                                 class="img-fluid rounded-3"
-                                alt="Coffee Break"
+                                alt="Fotografia de evento realizado pela A+ Gastronomia mostrando coffee break executado com sucesso"
                                 loading="lazy">
                             <div class="gallery-overlay">
                                 <i class="fas fa-search-plus"></i>
@@ -308,7 +308,7 @@
                         <a href="./tpl/img/evento-2.webp" class="gallery-link" data-fslightbox="gallery">
                             <img src="./tpl/img/evento-2.webp"
                                 class="img-fluid rounded-3"
-                                alt="Almoço Corporativo"
+                                alt="Fotografia de evento realizado pela A+ Gastronomia mostrando almoço corporativo servido com excelência"
                                 loading="lazy">
                             <div class="gallery-overlay">
                                 <i class="fas fa-search-plus"></i>
@@ -320,7 +320,7 @@
                         <a href="./tpl/img/evento-3.webp" class="gallery-link" data-fslightbox="gallery">
                             <img src="./tpl/img/evento-3.webp"
                                 class="img-fluid rounded-3"
-                                alt="Evento de Networking"
+                                alt="Fotografia de evento de networking realizado pela A+ Gastronomia com serviço de coquetel e finger food"
                                 loading="lazy">
                             <div class="gallery-overlay">
                                 <i class="fas fa-search-plus"></i>
@@ -445,7 +445,7 @@
                         <div class="swiper-slide">
                             <div class="card border-0 shadow-sm p-4 h-100">
                                 <div class="mb-3">
-                                    <img src="https://randomuser.me/api/portraits/women/43.jpg" class="rounded-circle" width="80" alt="Cliente">
+                                    <img src="https://randomuser.me/api/portraits/women/43.jpg" class="rounded-circle" width="80" alt="Foto de perfil do cliente Luiz Martins, Gerente de Eventos da ABC Corp">
                                 </div>
                                 <div class="text-orange mb-2">
                                     <i class="fas fa-star"></i>
@@ -481,7 +481,7 @@
                         <div class="swiper-slide">
                             <div class="card border-0 shadow-sm p-4 h-100">
                                 <div class="mb-3">
-                                    <img src="https://randomuser.me/api/portraits/women/43.jpg" class="rounded-circle" width="80" alt="Cliente">
+                                    <img src="https://randomuser.me/api/portraits/women/43.jpg" class="rounded-circle" width="80" alt="Foto de perfil do cliente Luiz Martins, Gerente de Eventos da ABC Corp">
                                 </div>
                                 <div class="text-orange mb-2">
                                     <i class="fas fa-star"></i>
@@ -536,7 +536,7 @@
                                 <div class="partner-logo-container p-4">
                                     <img src="https://amaisgastronomiaeeventos.com.br/wp-content/uploads/2023/05/download.png"
                                         class="img-fluid partner-logo grayscale"
-                                        alt="Parceiro 1"
+                                        alt="Logo de empresa parceira da A+ Gastronomia"
                                         loading="lazy">
                                 </div>
                             </div>
@@ -545,7 +545,7 @@
                                 <div class="partner-logo-container p-4">
                                     <img src="https://amaisgastronomiaeeventos.com.br/wp-content/uploads/2023/05/download-2.png"
                                         class="img-fluid partner-logo grayscale"
-                                        alt="Parceiro 2"
+                                        alt="Logo de empresa parceira da A+ Gastronomia"
                                         loading="lazy">
                                 </div>
                             </div>
@@ -554,7 +554,7 @@
                                 <div class="partner-logo-container p-4">
                                     <img src="https://amaisgastronomiaeeventos.com.br/wp-content/uploads/2023/05/logo-fundasp-01-768x440.png"
                                         class="img-fluid partner-logo grayscale"
-                                        alt="Parceiro 3"
+                                        alt="Logo da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), parceira da A+ Gastronomia"
                                         loading="lazy">
                                 </div>
                             </div>
@@ -563,7 +563,7 @@
                                 <div class="partner-logo-container p-4">
                                     <img src="https://amaisgastronomiaeeventos.com.br/wp-content/uploads/2023/05/sy75yw-asset-8_104q01o000000000000000.png"
                                         class="img-fluid partner-logo grayscale"
-                                        alt="Parceiro 4"
+                                        alt="Logo de empresa parceira da A+ Gastronomia"
                                         loading="lazy">
                                 </div>
                             </div>
@@ -572,7 +572,7 @@
                                 <div class="partner-logo-container p-4">
                                     <img src="https://amaisgastronomiaeeventos.com.br/wp-content/uploads/2023/05/logo-tokiomarine.svg"
                                         class="img-fluid partner-logo grayscale"
-                                        alt="Parceiro 5"
+                                        alt="Logo da Tokio Marine, empresa parceira da A+ Gastronomia"
                                         loading="lazy">
                                 </div>
                             </div>
