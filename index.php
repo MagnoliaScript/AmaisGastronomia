@@ -102,14 +102,14 @@
                                 </div>
                                 <div class="col-6 col-md-3">
                                     <div class="bg-white p-3 rounded-3 shadow-sm text-center h-100">
-                                        <h3 class="text-primary mb-0 counter" data-target="500">0</h3>
+                                        <h3 class="text-primary mb-0 counter" data-target="2234">0</h3>
                                         <p class="mb-0">Clientes satisfeitos</p>
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-3">
                                     <div class="bg-white p-3 rounded-3 shadow-sm text-center h-100">
-                                        <h3 class="text-primary mb-0 counter" data-target="50">0</h3>
-                                        <p class="mb-0">Colaboradores</p>
+                                        <h3 class="text-primary mb-0 counter" data-target="15">0</h3>
+                                        <p class="mb-0">Anos de Experiência</p>
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-3">
