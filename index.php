@@ -11,7 +11,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="banner-image-container">
-                            <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                            <img src="./tpl/img/banner.jpg"
                                 class="img-fluid w-100"
                                 alt="Evento Corporativo"
                                 loading="lazy">
@@ -37,7 +37,7 @@
 
                     <div class="swiper-slide">
                         <div class="banner-image-container">
-                            <img src="https://images.unsplash.com/photo-1555244162-803834f70033?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                            <img src="./tpl/img/banner-2.jpg"
                                 class="img-fluid w-100"
                                 alt="Coffee Break"
                                 loading="lazy">
@@ -70,7 +70,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <div class="about-image-container position-relative">
-                            <img src="https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                            <img src="./tpl/img/imagem-sobre-nos.jpg"
                                 class="img-fluid rounded-3 shadow-lg"
                                 alt="Equipe A+"
                                 loading="lazy">
@@ -139,7 +139,7 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="card service-card h-100 border-0 shadow-sm overflow-hidden">
                             <div class="service-card-image">
-                                <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                                <img src="./tpl/img/coffee-break.jpg"
                                     class="card-img-top"
                                     alt="Coffee Break"
                                     loading="lazy">
@@ -165,7 +165,7 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="card service-card h-100 border-0 shadow-sm overflow-hidden">
                             <div class="service-card-image">
-                                <img src="https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                                <img src="./tpl/img/almoco-corporativo.jpg"
                                     class="card-img-top"
                                     alt="Almoço Corporativo"
                                     loading="lazy">
@@ -191,7 +191,7 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="card service-card h-100 border-0 shadow-sm overflow-hidden">
                             <div class="service-card-image">
-                                <img src="https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                                <img src="./tpl/img/finger-food.jpg"
                                     class="card-img-top"
                                     alt="Coquetel"
                                     loading="lazy">
@@ -293,8 +293,8 @@
 
                 <div class="row g-3 gallery-grid">
                     <div class="col-md-4 col-6 gallery-item">
-                        <a href="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" class="gallery-link" data-fslightbox="gallery">
-                            <img src="https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                        <a href="./tpl/img/evento-1.webp" class="gallery-link" data-fslightbox="gallery">
+                            <img src="./tpl/img/evento-1.webp"
                                 class="img-fluid rounded-3"
                                 alt="Coffee Break"
                                 loading="lazy">
@@ -305,8 +305,8 @@
                     </div>
 
                     <div class="col-md-4 col-6 gallery-item">
-                        <a href="https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" class="gallery-link" data-fslightbox="gallery">
-                            <img src="https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                        <a href="./tpl/img/evento-2.webp" class="gallery-link" data-fslightbox="gallery">
+                            <img src="./tpl/img/evento-2.webp"
                                 class="img-fluid rounded-3"
                                 alt="Almoço Corporativo"
                                 loading="lazy">
@@ -317,8 +317,8 @@
                     </div>
 
                     <div class="col-md-4 col-6 gallery-item">
-                        <a href="https://images.unsplash.com/photo-1555244162-803834f70033?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" class="gallery-link" data-fslightbox="gallery">
-                            <img src="https://images.unsplash.com/photo-1555244162-803834f70033?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                        <a href="./tpl/img/evento-3.webp" class="gallery-link" data-fslightbox="gallery">
+                            <img src="./tpl/img/evento-3.webp"
                                 class="img-fluid rounded-3"
                                 alt="Evento de Networking"
                                 loading="lazy">
